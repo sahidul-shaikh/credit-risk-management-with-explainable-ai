@@ -32,9 +32,9 @@ Risk_Flag: Defaulted on a loan(Target variable)
 # Solution Steps
 The solution are broadly divided into below steps. The sub steps are also listed while we approach each step.
 
-Reading and understanding the data
-Exploratory Data Analysis
-Preparing the data for modelling
-Building the model
-Evaluate the model
-Model Explainability (LIME and SHAP)
+- Reading and understanding the data
+- Exploratory Data Analysis
+- Preparing the data for modelling
+- Building the model
+- Evaluate the model
+- Model Explainability (LIME and SHAP)
