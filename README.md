@@ -15,19 +15,19 @@ An organization wants to predict the possible defaulters for the consumer loans 
 https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior?select=Training+Data.csv
 
 # About Data
-ID: Id of the user(All Unique)
-Income: Income of the user
-Age: Age of the user
-Experience: Professional experience of the user in years
-Profession: Profession of the user
-Married/Single: Whether married or not
-House_Ownership: Owned or rented or neither
-Car_Ownership: Does the person own a car
-STATE: State of residence
-CITY: City of residence
-CURRENT_JOB_YRS: Years of experience in the current job
-CURRENT_HOUSE_YRS: Number of years in the current residence
-Risk_Flag: Defaulted on a loan(Target variable)
+- ID: Id of the user(All Unique)
+- Income: Income of the user
+- Age: Age of the user
+- Experience: Professional experience of the user in years
+- Profession: Profession of the user
+- Married/Single: Whether married or not
+- House_Ownership: Owned or rented or neither
+- Car_Ownership: Does the person own a car
+- STATE: State of residence
+- CITY: City of residence
+- CURRENT_JOB_YRS: Years of experience in the current job
+- CURRENT_HOUSE_YRS: Number of years in the current residence
+- Risk_Flag: Defaulted on a loan(Target variable)
 
 # Solution Steps
 The solution are broadly divided into below steps. The sub steps are also listed while we approach each step.
